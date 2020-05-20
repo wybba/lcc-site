@@ -1,0 +1,13 @@
+<h1>Abbys web demo landing page</h1>
+
+ <h2>Bruh moment</h2>
+
+ <p> :) </p>
+  body {
+        color: #333;
+        background-color: #d7b377;
+      }
+
+      p {
+        color: #860828;
+      }
